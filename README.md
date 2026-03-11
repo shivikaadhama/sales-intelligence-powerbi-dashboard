@@ -29,10 +29,10 @@ Excel
 ## Dashboard Preview
 
 ### Sales Performance Dashboard
-![Overview](screenshots/dashboard_overview.png)
+![Sales Dashboard](screenshots/dashboard_overview.png)
 
 ### Regional & Operational Insights
-![Regional](screenshots/regional_analysis.png)
+![Regional Dashboard](screenshots/regional_analysis.png)
 
 ### Customer & Operations Insights
-![Customer](screenshots/customer_insights.png)  
+![Customer Dashboard](screenshots/customer_insights.png)

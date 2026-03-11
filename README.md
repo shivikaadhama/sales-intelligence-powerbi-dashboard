@@ -19,12 +19,35 @@ Excel
 • Operational efficiency analysis
 • Interactive filtering with slicers
 
-# Key Insights
+## Project Overview
 
-• Wholesale channel generates the highest revenue
-• Product 7 and Product 1 are the top-performing products
-• Sales peaked in 2018
-• Profit margin is approximately 37%
+This project presents a Sales Intelligence Dashboard built in Power BI to analyze revenue performance, regional sales distribution, and customer-level insights.
+
+The dashboard helps answer key business questions such as:
+- Which sales channel generates the highest revenue?
+- Which regions contribute most to total sales?
+- Which customers drive the largest share of revenue?
+
+  ## Dataset
+
+The dataset contains transactional sales records including:
+
+- Order Number
+- Product Name
+- Customer Name
+- Sales Channel
+- Order Quantity
+- Order Processing Days
+- Region / City
+
+The dataset was cleaned and modeled inside Power BI.
+
+## Key Insights
+
+- Wholesale channel contributes the highest revenue (~83M).
+- Top products generate over 25M in revenue individually.
+- Profit margin across sales is approximately 37%.
+- Hamilton and Christchurch show the highest operational order volume.
 
 ## Dashboard Preview
 
